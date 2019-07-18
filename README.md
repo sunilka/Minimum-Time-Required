@@ -10,4 +10,33 @@ Day Production  Count
 4   2               5
 6   3               8
 8   2              10
+
 It takes 8 days to produce 10 items using these machines.
+
+Sample Input 0
+
+2 5
+2 3
+
+Sample Output 0
+
+6
+
+Sample Input 1
+
+3 10
+1 3 4
+
+Sample Output 1
+
+7
+
+Sample Input 2
+
+3 12
+4 5 6
+
+Sample Output 2
+
+20
+
